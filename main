@@ -106,11 +106,11 @@ int main()
 
 {
 
-   int n = 5;
+   int n = 0;
 
- //  printf("Enter the value of n [where n >= 5]: ");
+   printf("Enter the value of n [where n >= 5]: ");
 
-//   scanf("%d",&n);
+   scanf("%d",&n);
 
    lightPattern(n);
 
