@@ -8,3 +8,4 @@ Hint:  For your convenience you can take base value of n as 5.
 
 Example:
 
+![alt text](https://github.com/TusharPatil-98/Diwali-Lamp-Pattern/blob/master/Img.jpg)
